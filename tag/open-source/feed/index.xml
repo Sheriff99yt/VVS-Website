@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>open-source &#8211; Vision Visual Scripting</title>
+	<atom:link href="/tag/open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Coding has never been easier !</description>
+	<lastBuildDate>Fri, 01 Apr 2022 06:36:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>We are going Open Source !</title>
+		<link>/we-are-going-open-source/</link>
+					<comments>/we-are-going-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[sheriff.99.yt@gmail.com]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2022 06:27:55 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[open-source]]></category>
+		<guid isPermaLink="false">/?p=76</guid>
+
+					<description><![CDATA[This software has been in the works for a while now and we are very excited to welcome you to our open source development cycle, stay tuned for soon to be announced news, software developers collaborations and reveal of our long-term road map.]]></description>
+										<content:encoded><![CDATA[<p>This software has been in the works for a while now and we are very excited to welcome you to our open source development cycle, stay tuned for soon to be announced news, software developers collaborations and reveal of our long-term road map.</p>
+
+
+<div class="wp-container-62469f23a4b05 wp-block-buttons">
+<div class="wp-block-button has-custom-font-size is-style-outline has-medium-font-size"><a class="wp-block-button__link" href="https://github.com/Sheriff99yt/Vision_Visual_Scripting" style="border-radius:4px" rel="">GitHub</a></div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/we-are-going-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
